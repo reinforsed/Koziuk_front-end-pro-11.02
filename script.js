@@ -6,4 +6,7 @@ const numSubtraction = firstNumber - secondNumber;
 const numMultiplication = firstNumber * secondNumber;
 const numDivision = firstNumber / secondNumber;
 
-alert(`${firstNumber} + ${secondNumber} = ${numAdditon} \n${firstNumber} - ${secondNumber} = ${numSubtraction} \n${firstNumber} * ${secondNumber} = ${numMultiplication} \n${firstNumber} / ${secondNumber} = ${numDivision}`);
+alert(`${firstNumber} + ${secondNumber} = ${numAdditon} 
+${firstNumber} - ${secondNumber} = ${numSubtraction} 
+${firstNumber} * ${secondNumber} = ${numMultiplication} 
+${firstNumber} / ${secondNumber} = ${numDivision}`);
