@@ -4,8 +4,8 @@ let userLength = +prompt('Введите длину массива:');
 let arr = [];
 let i = 0;
 do {
-    let element = parseInt(prompt('Введите элемент'));
-    arr.push(element);
+    let elem = prompt('Введите элемент');
+    arr.push(elem);
     i++;
 } while (i < userLength);
 
